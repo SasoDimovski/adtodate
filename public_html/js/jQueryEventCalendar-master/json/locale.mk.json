@@ -1,0 +1,31 @@
+{
+    "locale": "mk",
+    "txt_noEvents": "Нема настани",
+    "txt_SpecificEvents_prev": "Настани на ",
+    "txt_SpecificEvents_after": "",
+    "txt_next": "следниве",
+    "txt_prev": "претходно",
+    "txt_NextEvents": "Следни настани",
+    "txt_GoToEventUrl": "Оди на настанот",
+    "txt_NumAbbrevTh": "",
+    "txt_NumAbbrevSt": "",
+    "txt_NumAbbrevNd": "",
+    "txt_NumAbbrevRd": "",
+    "txt_loading": "се вчитува...",
+    "moment": {
+        "months" : [ "јануари", "февруари", "март", "април", "мај", "јуни", "јули", "август", "септември", "октомври", "ноември", "декември" ],
+        "weekdaysShort" : [ "П", "В", "С", "Ч", "П", "С", "Н" ],
+        "longDateFormat" : {
+            "LT" : "H:mm",
+            "LTS" : "LT:ss",
+            "L" : "DD.MM.YYYY",
+            "LL" : "DD [] MMMM [] YYYY",
+            "LLL" : "DD [] MMMM [] YYYY LT",
+            "LLLL" : "dddd, DD [] MMMM [] YYYY LT"
+        },
+        "week" : {
+            "dow" : 1,
+            "doy" : 4
+        }
+    }
+}
